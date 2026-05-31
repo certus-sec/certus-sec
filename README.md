@@ -23,9 +23,14 @@
 
 ## 🛠️ Tech Stack
 
+
 **Languages & Core**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Cloud & DevOps**
@@ -62,12 +67,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="150" alt="Top Languages"/>
+
 </div>
 
 ---
-
 ## 📁 Featured Repositories
 
 - [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile & security notes
