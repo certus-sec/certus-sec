@@ -60,7 +60,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
 </p>
----
+
+----------
 
 ## 🏆 Certification Roadmap
 
@@ -93,13 +94,6 @@
 
 ---
 
-## 📁 Featured Repositories
-
-- [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile & security notes
-- [pool1337](https://github.com/certus-sec/pool1337) — 1337 School preparation pool
-
----
-
-<div align="center">
-  <i>"From low-level systems to high-level infrastructure — securing every layer."</i>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" />
+</p>
