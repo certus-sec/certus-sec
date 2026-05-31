@@ -70,19 +70,18 @@
 | **CKS (Kubernetes Security)** | ⚪ Planned | Cloud-native gold |
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" height="150" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/followers/certus-sec?style=for-the-badge&logo=github&color=181717&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/certus-sec?style=for-the-badge&logo=github&color=FFD700&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Repos-2-181717?style=for-the-badge&logo=github&label=Public%20Repos" alt="Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=certus-sec&color=00D4AA&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
 
 </div>
 
 ---
-
 ## 📁 Featured Repositories
 
 - [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile & security notes
