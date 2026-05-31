@@ -26,36 +26,40 @@
 
 **Languages & Core**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+</p>
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
+<p aling="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+</p>
 
 **Security**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
-
+<p aling="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white"/>
+</p>
 
 **Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-
+<p aling="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
+</p>
 ---
 
 ## 🏆 Certification Roadmap
@@ -70,16 +74,25 @@
 | **CKS (Kubernetes Security)** | ⚪ Planned | Cloud-native gold |
 
 ---
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/certus-sec&query=$.public_repos&label=Public%20Repos&color=00D4AA&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/certus-sec&query=$.followers&label=Followers&color=00D4AA&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/certus-sec?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=certus-sec&color=00D4AA&style=for-the-badge&label=Profile%20Views&labelColor=0D1117" alt="Views"/>
-</p>
+## GitHub Stats
+
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0" width="100%">
+    <tr> 
+      <td width="50%" valign="middle" align="center">
+        <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" width="100%" style="max-width: 550px;" />
+      </td>
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
 ## 📁 Featured Repositories
 
 - [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile & security notes
