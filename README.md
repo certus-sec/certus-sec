@@ -56,9 +56,9 @@
 **Tools**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
 </p>
 ---
 
@@ -85,7 +85,7 @@
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=certus-sectheme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=certus-sec&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
