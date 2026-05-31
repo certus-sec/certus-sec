@@ -70,16 +70,35 @@
 | **CKS (Kubernetes Security)** | ⚪ Planned | Cloud-native gold |
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=40&section=header&text=ANALYTICS&fontSize=20&fontColor=00D4AA&fontAlign=50"/>
+</p>
 
-  <img src="https://img.shields.io/github/followers/certus-sec?style=for-the-badge&logo=github&color=181717&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/certus-sec?style=for-the-badge&logo=github&color=FFD700&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Repos-2-181717?style=for-the-badge&logo=github&label=Public%20Repos" alt="Repos"/>
-  <img src="https://komarev.com/ghpvc/?username=certus-sec&color=00D4AA&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
+<p align="center">
 
-</div>
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&count_private=true&include_all_commits=true&border_radius=12&card_width=450" height="190" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=10&border_radius=12&card_width=320" height="190" alt="Top Languages"/>
+
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6633&currStreakLabel=00D4AA&sideLabels=C9D1D9&currStreakNum=00D4AA&sideNums=C9D1D9&border_radius=12" height="190" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=certus-sec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=40&section=footer&fontSize=1" alt="spacer"/>
+</p>
 
 ---
 ## 📁 Featured Repositories
