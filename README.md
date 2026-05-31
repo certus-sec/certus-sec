@@ -1,60 +1,81 @@
 &lt;div align="center"&gt;
 
-# 🔐 SABIR | CERTUS-SEC
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG" /&gt;
 
-**CS Student · Systems Programmer · CLI Builder · Pentester in Progress**
+  &lt;h1&gt;🔐 SABIR | CERTUS-SEC&lt;/h1&gt;
+  &lt;p&gt;&lt;strong&gt;CS Student · Systems Programmer · Cloud Security Engineer in Progress&lt;/strong&gt;&lt;/p&gt;
 
-[GitHub](https://github.com/certus-sec) • [LinkedIn](https://linkedin.com/in/certus-sec) • [X](https://x.com/certus_sec) • [Discord](https://discord.com/users/sabir0994)
+  &lt;a href="https://linkedin.com/in/certus-sec"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;
+  &lt;a href="https://x.com/certus_sec"&gt;&lt;img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/&gt;&lt;/a&gt;
+  &lt;a href="https://discord.com/users/sabir0994"&gt;&lt;img src="https://img.shields.io/badge/Discord-sabir0994-5865F2?style=for-the-badge&logo=discord&logoColor=white"/&gt;&lt;/a&gt;
+
+&lt;/div&gt;
 
 ---
 
 ## 🎯 About Me
 
-&gt; *"Transitioning from Code to Security. Exploring the depths of C and Network Security."*
-
-- 🎓 **19 years old** | Preparing for **1337 School**
-- 🛡️ **Focus:** Cybersecurity · Ethical Hacking · Penetration Testing
-- 💻 **Stack:** C · Shell · Python · Linux · Git · Vim
-- 🎯 **Mission:** Road to 1337 | Backtrack Security
+- 🎓 **19 years old** | CS Student | Preparing for **1337 School**
+- ☁️ **Focus:** Cloud Security · Cybersecurity · Pentesting
+- 💻 **Stack:** C · Python · Shell · Linux · Git · Vim
+- 🎯 **Mission:** Transitioning from Code to Cloud Security
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Languages | Security | Tools |
-|-----------|----------|-------|
-| C | Kali Linux | Git |
-| Python | Wireshark | Vim |
-| Shell | Burp Suite | VS Code |
-| Markdown | Metasploit | Docker |
+**Languages & Core**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Security**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
+
+**Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 ---
 
-## 📁 Repositories
+## 🏆 Certification Roadmap
 
-- [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile repo
-- [pool1337](https://github.com/certus-sec/pool1337) — 1337 School preparation
-
----
-
-## 🏆 Learning Path
-
-- [ ] **1337 School** — In Progress
-- [ ] **CompTIA Security+**
-- [ ] **eJPT**
-- [ ] **OSCP**
+| Certification | Status | Note |
+|:-------------|:------:|:-----|
+| **CompTIA Security+** | 🟡 In Progress | Foundation |
+| **AWS Solutions Architect** | ⚪ Planned | Cloud core |
+| **Microsoft AZ-500** | ⚪ Planned | Azure Security |
+| **OSCP** | ⚪ Planned | Advanced Pentesting |
+| **AWS Security Specialty** | ⚪ Planned | Rare & high value |
+| **CKS (Kubernetes Security)** | ⚪ Planned | Cloud-native gold |
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://linkedin.com/in/certus-sec)
-- 🐦 [X / Twitter](https://x.com/certus_sec)
-- 💬 [Discord](https://discord.com/users/sabir0994)
-- 🐙 [GitHub](https://github.com/certus-sec)
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true" height="150"/&gt;
+&lt;/div&gt;
 
 ---
 
-*Committed to continuous learning, hands-on practice, and long-term growth in cybersecurity.*
+## 📁 Featured Repositories
 
+- [certus-sec](https://github.com/certus-sec/certus-sec) — Main profile & security notes
+- [pool1337](https://github.com/certus-sec/pool1337) — 1337 School preparation pool
+
+---
+
+&lt;div align="center"&gt;
+  &lt;i&gt;"From low-level systems to high-level infrastructure — securing every layer."&lt;/i&gt;
 &lt;/div&gt;
