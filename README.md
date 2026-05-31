@@ -73,16 +73,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&count_private=true&include_all_commits=true&border_radius=12" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=10&border_radius=12" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6633&currStreakLabel=00D4AA&sideLabels=C9D1D9&currStreakNum=00D4AA&sideNums=C9D1D9&border_radius=12" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=certus-sec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/certus-sec&query=$.public_repos&label=Public%20Repos&color=00D4AA&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/certus-sec&query=$.followers&label=Followers&color=00D4AA&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/certus-sec?style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=certus-sec&color=00D4AA&style=for-the-badge&label=Profile%20Views&labelColor=0D1117" alt="Views"/>
 </p>
 
 ---
