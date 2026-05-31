@@ -1,15 +1,14 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG" /&gt;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;C+%7C+Python+%7C+Shell+%7C+Linux;1337+School+Candidate" alt="Typing SVG"/>
 
-  &lt;h1&gt;🔐 SABIR | CERTUS-SEC&lt;/h1&gt;
-  &lt;p&gt;&lt;strong&gt;CS Student · Systems Programmer · Cloud Security Engineer in Progress&lt;/strong&gt;&lt;/p&gt;
+  <h1>🔐 SABIR | CERTUS-SEC</h1>
+  <p><strong>CS Student · Systems Programmer · Cloud Security Engineer in Progress</strong></p>
 
-  &lt;a href="https://linkedin.com/in/certus-sec"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://x.com/certus_sec"&gt;&lt;img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://discord.com/users/sabir0994"&gt;&lt;img src="https://img.shields.io/badge/Discord-sabir0994-5865F2?style=for-the-badge&logo=discord&logoColor=white"/&gt;&lt;/a&gt;
-
-&lt;/div&gt;
+  <a href="https://linkedin.com/in/certus-sec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/certus_sec"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://discord.com/users/sabir0994"><img src="https://img.shields.io/badge/Discord-sabir0994-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  </div>
 
 ---
 
@@ -62,10 +61,10 @@
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true" height="150"/&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=certus-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=certus-sec&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
 ---
 
@@ -76,6 +75,6 @@
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;i&gt;"From low-level systems to high-level infrastructure — securing every layer."&lt;/i&gt;
-&lt;/div&gt;
+<div align="center">
+  <i>"From low-level systems to high-level infrastructure — securing every layer."</i>
+</div>
