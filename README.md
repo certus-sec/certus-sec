@@ -102,13 +102,27 @@
 ---
 ## Connect
 
+## Connect
+
 <p align="center">
-  <a href="https://github.com/certus-sec" target="blank" rel="noopener noreferrer" aria-label="Visit my GitHub profile">
+  <a href="https://github.com/certus-sec">
     <img src="./assets/github_btn.svg" width="136" height="44" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:contact.sbf3737@gmail.com" target="blank" rel="noopener noreferrer" aria-label="Send me an email">
-    <img src="./assets/gmail_btn.svg" width="136" height="44" alt="Gmail"/>
+  <a href="mailto:contact.sbf3737@gmail.com">
+    <img src="./assets/gmail_btn.svg" width="136" height="44" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/certus-sec">
+    <img src="./assets/linkedin_btn.svg" width="136" height="44" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/certus_sec">
+    <img src="./assets/x_btn.svg" width="136" height="44" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/sabir0994">
+    <img src="./assets/discord_btn.svg" width="136" height="44" alt="Discord" />
   </a>
 </p>
 
