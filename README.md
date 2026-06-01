@@ -11,12 +11,7 @@
 
   <h1>🔐 SABIR | CERTUS-SEC</h1>
   <p><strong>CS Student · Systems Programmer · Cloud Security Engineer in Progress</strong></p>
-
-  <a href="https://linkedin.com/in/certus-sec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/certus_sec"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://discord.com/users/sabir0994"><img src="https://img.shields.io/badge/Discord-sabir0994-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  </div>
-
+  
 ---
 
 ## 🎯 About Me
@@ -122,7 +117,7 @@
   </a>
   &nbsp;
   <a href="https://discord.com/users/sabir0994">
-    <img src="./assets/discord_btn.svg" width="136" height="44" alt="Discord" />
+    <img src="./assets/discord_btn.svg" width="170" height="44" alt="Discord: sabir0994" />
   </a>
 </p>
 
