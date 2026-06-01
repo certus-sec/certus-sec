@@ -97,8 +97,6 @@
 ---
 ## Connect
 
-## Connect
-
 <p align="center">
   <a href="https://github.com/certus-sec">
     <img src="./assets/github_btn.svg" width="136" height="44" alt="GitHub" />
