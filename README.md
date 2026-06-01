@@ -1,7 +1,7 @@
 <h1 align="center">Certus-sec</h1>
 
 <p align="center">
-  <img src="./assets/banner.gif"  width="90%" height="360"/><a alt="Developer GIF" />
+  <img src="./assets/banner.gif"  width="90%" height="360"><a alt="Developer GIF" />
 </p>
 
 ----
