@@ -1,8 +1,9 @@
 <h1 align="center">Certus-sec</h1>
 
 <p align="center">
-  <img src="./assets/banner.gif"  width="90%" height="360" <a alt="Developer GIF" />
+  <img src="./assets/banner.gif"  width="90%" height="360"/><a alt="Developer GIF" />
 </p>
+
 ----
 <div align="center">
 
@@ -103,11 +104,11 @@
 
 <p align="center">
   <a href="https://github.com/certus-sec" target="blank" rel="noopener noreferrer" aria-label="Visit my GitHub profile">
-    <img src="./assest/github_btn.svg" width="136" height="44" alt="GitHub" />
+    <img src="./assets/github_btn.svg" width="136" height="44" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:contact.sbf3737@gmail.com" target="blank" rel="noopener noreferrer" aria-label="Send me an email">
-    <img src="./assest/gmail_btn.svg" width="136" height="44" alt="Gmail"/>
+    <img src="./assets/gmail_btn.svg" width="136" height="44" alt="Gmail"/>
   </a>
 </p>
 
