@@ -81,6 +81,11 @@
 ## GitHub Stats
 
 <div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=certus-sec&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+
+  <br/><br/>
+
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
@@ -88,10 +93,11 @@
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=certus-sec&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api?username=certus-sec&theme=shadow" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://readme-stats-github.pages.dev/api?username=certus-sec&theme=shadow" alt="GitHub Stats" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
+
 </div>
 ---
 ## Connect
