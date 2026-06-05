@@ -102,7 +102,9 @@
   </table>
 
 </div>
+
 ---
+
 ## Connect
 
 <p align="center">
